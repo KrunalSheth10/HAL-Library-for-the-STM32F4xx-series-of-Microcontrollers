@@ -1,0 +1,7 @@
+E:/Final Projects/STM32F4xxHardwareAbstractionLayer/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+E:/Final Projects/STM32F4xxHardwareAbstractionLayer/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	16	static
+../Drivers/Src/systick.c:25:6:delay	24	static
+../Drivers/Src/systick.c:42:6:systickDeinit	4	static
+../Drivers/Src/systick.c:64:6:systickInit	32	static
+../Drivers/Src/systick.c:103:10:getTicks	4	static
+../Drivers/Src/systick.c:118:6:SysTick_Handler	4	static

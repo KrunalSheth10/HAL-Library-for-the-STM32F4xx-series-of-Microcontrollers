@@ -1,0 +1,12 @@
+../Drivers/Src/SPI.c:23:6:spiClockControl	9
+../Drivers/Src/SPI.c:69:9:spiFlagCheck	8
+../Drivers/Src/SPI.c:113:6:spiInit	3
+../Drivers/Src/SPI.c:165:10:spiTransmit	11
+../Drivers/Src/SPI.c:259:10:spiReceive	11
+../Drivers/Src/SPI.c:337:10:spiTransmitReceive	12
+../Drivers/Src/SPI.c:444:6:spiTransmitIT	3
+../Drivers/Src/SPI.c:500:6:spiReceiveIT	6
+../Drivers/Src/SPI.c:562:6:spiTransmitReceiveIT	3
+../Drivers/Src/SPI.c:612:6:spiIRQHandler	5
+../Drivers/Src/SPI.c:637:6:spiTXInterruptHandle	5
+../Drivers/Src/SPI.c:699:6:spiRXInterruptHandle	7

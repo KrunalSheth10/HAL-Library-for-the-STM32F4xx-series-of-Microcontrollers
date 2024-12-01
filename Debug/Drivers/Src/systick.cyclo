@@ -1,0 +1,7 @@
+E:/Final Projects/STM32F4xxHardwareAbstractionLayer/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+E:/Final Projects/STM32F4xxHardwareAbstractionLayer/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Drivers/Src/systick.c:25:6:delay	2
+../Drivers/Src/systick.c:42:6:systickDeinit	1
+../Drivers/Src/systick.c:64:6:systickInit	1
+../Drivers/Src/systick.c:103:10:getTicks	1
+../Drivers/Src/systick.c:118:6:SysTick_Handler	1

@@ -1,0 +1,13 @@
+../Drivers/Src/UART.c:23:9:uartFlagCheck	7
+../Drivers/Src/UART.c:64:6:uartClockControl	9
+../Drivers/Src/UART.c:109:10:uartWaitOnFlagUntilTimeout	3
+../Drivers/Src/UART.c:136:6:uartSetBaudRate	5
+../Drivers/Src/UART.c:204:6:uartInit	11
+../Drivers/Src/UART.c:271:10:uartTransmit	7
+../Drivers/Src/UART.c:334:10:uartReceive	7
+../Drivers/Src/UART.c:397:6:uartTransmitIT	2
+../Drivers/Src/UART.c:427:6:uartReceiveIT	2
+../Drivers/Src/UART.c:452:6:uartIRQHandler	7
+../Drivers/Src/UART.c:483:6:uartTXInterruptHandle	6
+../Drivers/Src/UART.c:542:6:uartRXInterruptHandle	5
+../Drivers/Src/UART.c:603:6:uartTCInterruptHandle	3

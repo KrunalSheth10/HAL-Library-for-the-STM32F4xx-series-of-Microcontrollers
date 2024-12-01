@@ -1,0 +1,12 @@
+../Drivers/Src/SPI.c:23:6:spiClockControl	16	static
+../Drivers/Src/SPI.c:69:9:spiFlagCheck	24	static
+../Drivers/Src/SPI.c:113:6:spiInit	16	static
+../Drivers/Src/SPI.c:165:10:spiTransmit	32	static
+../Drivers/Src/SPI.c:259:10:spiReceive	40	static
+../Drivers/Src/SPI.c:337:10:spiTransmitReceive	32	static
+../Drivers/Src/SPI.c:444:6:spiTransmitIT	32	static
+../Drivers/Src/SPI.c:500:6:spiReceiveIT	32	static
+../Drivers/Src/SPI.c:562:6:spiTransmitReceiveIT	32	static
+../Drivers/Src/SPI.c:612:6:spiIRQHandler	16	static
+../Drivers/Src/SPI.c:637:6:spiTXInterruptHandle	16	static
+../Drivers/Src/SPI.c:699:6:spiRXInterruptHandle	16	static

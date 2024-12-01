@@ -1,0 +1,6 @@
+../Drivers/Src/gpio.c:23:6:gpioInit	24	static
+../Drivers/Src/gpio.c:173:15:gpioReadPin	24	static
+../Drivers/Src/gpio.c:200:6:gpioWritePin	16	static
+../Drivers/Src/gpio.c:223:6:gpioTogglePin	24	static
+../Drivers/Src/gpio.c:249:6:GPIO_EXTI_IRQHandler	16	static
+../Drivers/Src/gpio.c:270:6:GPIOCLockControl	16	static
